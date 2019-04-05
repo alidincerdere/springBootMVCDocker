@@ -22,5 +22,5 @@ in order to stop:
 
 - go to another terminal
 - docker ps
-- docker stop <containerId>
+- docker stop containerId
 
