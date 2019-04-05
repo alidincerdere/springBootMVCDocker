@@ -9,6 +9,9 @@ First please see that you can make it work without docker:
 - open browser and localhost:8080
 - see welcome page
 - go to terminal and apply CTRL+C to stop spring boot
+
+Containerize It:
+
 - apply "./mvnw install dockerfile:build"
 - apply "docker run -p 8080:8080 -t springio/templatejsp"
 - open browser and localhost:8080
