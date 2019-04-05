@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: templateJSP
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: adere
+Implementation-Vendor-Id: com.example.springBootMVC
+Spring-Boot-Version: 2.0.4.RELEASE
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: com.example.springBootMVC.templateJSP.TemplateJspApplicat
+ ion
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/templatejsp
+
